@@ -26,6 +26,7 @@ In alphabetical order:
 * [Hostico](https://hostico.ro)
 * [Hostinger](https://www.hostinger.com)
 * [HostPresto](https://hostpresto.com)
+* [HostX](https://www.hostx.ro)
 * [ICDSoft](https:///www.icdsoft.com)
 * [IONOS by 1&1](https://www.ionos.com/)
 * [iPage](http://www.ipage.com/ipage/index.html)
