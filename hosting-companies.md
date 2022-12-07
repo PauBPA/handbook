@@ -33,6 +33,7 @@ In alphabetical order:
 * [Hostico](https://hostico.ro)
 * [Hostinger](https://www.hostinger.com)
 * [HostPresto](https://hostpresto.com)
+* [HostX](https://hostx.ro)
 * [ICDSoft](https:///www.icdsoft.com)
 * [Infomaniak](https://www.infomaniak.com/en/create-a-website/wordpress-hosting)
 * [IONOS](https://www.ionos.com/)
